@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365229194388",
+    "firebase_url": "https://uber-ola-and-indriver-cl-e7e08-default-rtdb.firebaseio.com",
+    "project_id": "uber-ola-and-indriver-cl-e7e08",
+    "storage_bucket": "uber-ola-and-indriver-cl-e7e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365229194388:android:af07203e393759e8f74881",
+        "android_client_info": {
+          "package_name": "com.fawadali.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365229194388-aqs0cgbjeim2m0thssgogladbbctlmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtixSwYH8wjyKNE6fDFRNCqvcmPZ01kmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365229194388-aqs0cgbjeim2m0thssgogladbbctlmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
